@@ -2,7 +2,6 @@
 
 Welcome to my Data Analysis Portfolio.
 
-I am a Analyst with a background in Engineering and Supply Chain with 5+ years of experience in the industry including automotive tier 1 companies and OEM manufactures. 
-I am currently completing my degree in Data Science
-For the last 2 years i have being responsible for new processes and projects implementations as well as development of new KPIs, stock analysis with focus on inventory reduction based in data.
-With a result driven mentality and fast learning skills i have being able to adapt to new positions and challenges.
+In this portifolio you will find projects done using Python with industries best practices.
+The projects ara done for personal studies and development as well as projects used to implement new processes at my current job as a Material Planner.
+With the goal of leeping it simple, consice and adhere to compliency rules, i use only necessary data without publishing the databases.
